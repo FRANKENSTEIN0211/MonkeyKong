@@ -425,7 +425,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7131257780165821408, guid: 01e5456d79e04ab48a3d9abf16603352, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 34.820843
+      value: 34.58
       objectReference: {fileID: 0}
     - target: {fileID: 7131257780165821408, guid: 01e5456d79e04ab48a3d9abf16603352, type: 3}
       propertyPath: m_LocalPosition.y
@@ -539,7 +539,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5873431520522020520, guid: fc453d7914dff5c4fa702770c00fea53, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 37.13
+      value: 36.93
       objectReference: {fileID: 0}
     - target: {fileID: 5873431520522020520, guid: fc453d7914dff5c4fa702770c00fea53, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1091,7 +1091,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4416926081852918490, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
       propertyPath: SprintSpeed
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4416926081852918490, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
       propertyPath: RotationSmoothTime
