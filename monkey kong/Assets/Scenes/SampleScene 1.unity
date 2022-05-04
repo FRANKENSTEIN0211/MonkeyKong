@@ -744,6 +744,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: box (2)
       objectReference: {fileID: 0}
+<<<<<<< Updated upstream
     - target: {fileID: 9204188519446112471, guid: c9355a8268bc4be47b6bd47789243714, type: 3}
       propertyPath: m_RootOrder
       value: 31
@@ -787,6 +788,15 @@ PrefabInstance:
     - target: {fileID: 9204188519446112471, guid: c9355a8268bc4be47b6bd47789243714, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
+=======
+    - target: {fileID: 4416926081852918490, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
+      propertyPath: MoveSpeed
+      value: 3.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5658643963649189109, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
+      propertyPath: sceneId
+      value: 2151378832
+>>>>>>> Stashed changes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9355a8268bc4be47b6bd47789243714, type: 3}
